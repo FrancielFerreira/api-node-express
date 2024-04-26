@@ -1,6 +1,6 @@
 var express = require('express');
 const HomeController = require('../app/controllers/home-controller');
-const AdmController = require('../app/controllers/adn-controller');
+const AdmController = require('../app/controllers/adm-controller');
 var router = express.Router();
 
 /* GET home page. */
